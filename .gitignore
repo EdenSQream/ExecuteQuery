@@ -1,0 +1,11 @@
+package-files
+build
+dist
+.svn
+.idea
+**/*.iml
+**/*.versionsBackup
+**/*.log*
+**/*.tmp*
+**/target/*
+.DS_Store
